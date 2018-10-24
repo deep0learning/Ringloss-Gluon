@@ -16,6 +16,7 @@ it is hard to get the expected result when training ring loss from Scratch--In f
 I never achieve the papers result for mnist in my experiments.
 
 Here is the visualization of minst with softmax and sotfmax+ringloss:
+
 |Results|Train|Val |
 |:---:  |:---:|:---:|
 |Softmax|<img src="resources/softmax-train-epoch95.png"/>|<img src="resources/softmax-val-epoch95.png"/>|
