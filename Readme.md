@@ -12,8 +12,8 @@ python3.5+, mxnet-1.2.1+, matplotlib, numpy, seaborn, ...
 
 ## Mnist Example
 Before training ring loss, a pretrained model is needed, 
-it is hard to get the expected result when training ring loss from Scratch--In fact, 
-I never achieve the papers result for mnist in my experiments.
+it is hard to get the expected result when training ring loss from scratch. In fact, 
+I never achieve the paper's result for mnist in my experiments.
 
 Here is the visualization of minst with softmax and sotfmax+ringloss:
 
