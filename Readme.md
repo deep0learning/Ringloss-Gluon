@@ -47,7 +47,7 @@ or just train from scratch:
 ```python
 epochs = 100
 
-lr = 0.01
+lr = 0.1
 lamda = 1
 
 lr_steps = [40, 70, np.inf]
@@ -57,6 +57,8 @@ batch_size = 256
 
 plot_period = 5
 ```
+
+Try to change parameter `lamda` to get different train result of mnist. 
 
 ## References
 1. Ring loss: Convex Feature Normalization for Face Recognition [1803.00130](https://arxiv.org/abs/1803.00130).
