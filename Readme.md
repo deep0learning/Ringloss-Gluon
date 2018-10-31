@@ -32,7 +32,7 @@ The training steps is:
 epochs = 100
 
 lr = 0.01
-lamda = 0.01
+lamda = 0.1
 
 lr_steps = [40, 70, np.inf]
 wd = 5e-4
@@ -48,7 +48,7 @@ or just train from scratch:
 epochs = 100
 
 lr = 0.1
-lamda = 1
+lamda = 0.1
 
 lr_steps = [40, 70, np.inf]
 wd = 5e-4
