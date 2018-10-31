@@ -81,8 +81,8 @@ def validate(net, val_data, ctx, loss, plot=False):
 def train():
     epochs = 100
 
-    lr = 0.01
-    lamda = 0.01
+    lr = 0.1
+    lamda = 0.1
 
     lr_steps = [40, 70, np.inf]
     wd = 5e-4
@@ -98,9 +98,9 @@ def train():
     val_set = MNIST(train=False, transform=transform_val)
     val_data = gluon.data.DataLoader(val_set, batch_size, shuffle=False, num_workers=4)
 
-    net = MnistNet(embedding_size=2, feature_norm=False, weight_norm=True)
-    # net.initialize(init=mx.init.MSRAPrelu(), ctx=ctx)
-    net.load_parameters("./pretrained_mnist.params", ctx=ctx)
+    net = MnistNet(embedding_size=2, weight_norm=True)
+    net.initialize(init=mx.init.MSRAPrelu(), ctx=ctx)
+    # net.load_parameters("./pretrained_mnist.params", ctx=ctx)
     net.hybridize()
 
     loss = RingLoss(lamda)

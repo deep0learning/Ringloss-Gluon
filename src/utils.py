@@ -23,10 +23,10 @@
 
 import numpy as np
 import matplotlib
+matplotlib.use('Agg')
 import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib.patheffects as PathEffects
-matplotlib.use('Agg')
 
 
 def plot_result(embeds, labels, output_path):

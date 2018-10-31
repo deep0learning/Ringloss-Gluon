@@ -148,7 +148,7 @@ class RingLoss(Loss):
 
         # RingLoss
         emb_norm = F.norm(embedding, axis=1)
-        loss_r = F.square(emb_norm - R)
+        loss_r = F.square(F.broadcast_sub(emb_norm, R))
         loss_r = F.mean(loss_r, keepdims=True) * 0.5
 
         # Softmax
