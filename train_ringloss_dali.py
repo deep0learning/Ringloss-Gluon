@@ -51,7 +51,7 @@ iters = 200e3
 lr_steps = [60e3, 120e3, 180e3, np.inf]
 
 lamda = 0.01
-r_init = 10.0
+r_init = 20.0
 embedding_size = 256
 
 lr = 0.1
@@ -69,8 +69,8 @@ val_sets = [get_recognition_dataset(name, transform=transform_test) for name in 
 val_datas = [DataLoader(dataset, batch_size, num_workers=num_worker) for dataset in val_sets]
 
 net = get_mobile_facenet(num_classes, embedding_size=embedding_size, weight_norm=True)
-net.load_parameters("./models/mobilefacenet-ring-it-23000.params", ctx=ctx)
-# net.initialize(init=mx.init.MSRAPrelu(), ctx=ctx)
+# net.load_parameters("./models/mobilefacenet-ring-it-23000.params", ctx=ctx)
+net.initialize(init=mx.init.MSRAPrelu(), ctx=ctx)
 net.hybridize(static_alloc=True)
 
 loss = RingLoss(lamda, mx.init.Constant(r_init))
@@ -89,7 +89,7 @@ lr_counter = 0
 
 logger.info([lamda, r_init, lr_steps, lr, momentum, wd, batch_size])
 
-it, epoch = 23001, 1
+it, epoch = 0, 0
 
 loss_mtc, acc_mtc = mx.metric.Loss(), mx.metric.Accuracy()
 tic = time.time()
