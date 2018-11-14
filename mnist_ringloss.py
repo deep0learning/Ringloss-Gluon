@@ -30,7 +30,7 @@ from mxnet import nd, gluon, metric as mtc, autograd as ag
 
 from src.loss import RingLoss
 from src.utils import plot_result
-from src.mnist_net import MnistNet
+from src.net.mnist_net import MnistNet
 
 os.environ['MXNET_GLUON_REPO'] = 'https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/'
 os.environ['MXNET_ENABLE_GPU_P2P'] = '0'

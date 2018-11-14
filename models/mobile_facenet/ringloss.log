@@ -1,0 +1,1965 @@
+[0.01, 10.0, [60000.0, 120000.0, 180000.0, inf], 0.1, 0.9, 4e-05, 512]
+
+[epoch  0] [it  500] train loss: 10.639217, train_acc: 0.017017 | time: 189.237092
+Radius 13.730684280395508
+lfw: 0.859833+-0.016046
+
+
+[epoch  0] [it  1000] train loss: 8.139757, train_acc: 0.087480 | time: 165.611764
+Radius 17.39546012878418
+lfw: 0.904833+-0.008738
+ 
+
+[epoch  0] [it  1500] train loss: 6.160117, train_acc: 0.222719 | time: 165.051831
+Radius 22.886869430541992
+lfw: 0.927500+-0.011673
+ 
+
+[epoch  0] [it  2000] train loss: 4.581241, train_acc: 0.372125 | time: 164.711719
+Radius 27.97855567932129
+lfw: 0.947833+-0.012911
+ 
+
+[epoch  0] [it  2500] train loss: 3.506722, train_acc: 0.490793 | time: 165.024251
+Radius 31.83747100830078
+lfw: 0.951000+-0.012763
+ 
+
+[epoch  0] [it  3000] train loss: 2.792797, train_acc: 0.578426 | time: 165.013423
+Radius 34.67658233642578
+lfw: 0.961333+-0.011324
+ 
+
+[epoch  0] [it  3500] train loss: 2.321379, train_acc: 0.639273 | time: 164.357959
+Radius 36.85044860839844
+lfw: 0.963667+-0.009770
+ 
+
+[epoch  0] [it  4000] train loss: 1.988667, train_acc: 0.684215 | time: 165.889613
+Radius 38.54473876953125
+lfw: 0.961833+-0.013773
+ 
+
+[epoch  0] [it  4500] train loss: 1.744927, train_acc: 0.717109 | time: 165.016039
+Radius 39.89633560180664
+lfw: 0.964333+-0.014476
+ 
+
+[epoch  0] [it  5000] train loss: 1.557281, train_acc: 0.745363 | time: 164.950161
+Radius 41.00186538696289
+lfw: 0.969000+-0.008505
+ 
+
+[epoch  0] [it  5500] train loss: 1.413252, train_acc: 0.767023 | time: 164.836187
+Radius 41.91960144042969
+lfw: 0.970000+-0.009972
+ 
+
+[epoch  0] [it  6000] train loss: 1.302733, train_acc: 0.783789 | time: 164.807052
+Radius 42.65520095825195
+lfw: 0.969500+-0.009605
+ 
+
+[epoch  0] [it  6500] train loss: 1.199263, train_acc: 0.799215 | time: 165.407488
+Radius 43.34486389160156
+lfw: 0.972000+-0.007667
+ 
+
+[epoch  0] [it  7000] train loss: 1.130924, train_acc: 0.809992 | time: 165.265405
+Radius 43.87334060668945
+lfw: 0.972500+-0.009406
+ 
+
+[epoch  0] [it  7500] train loss: 1.051311, train_acc: 0.823117 | time: 164.907237
+Radius 44.40612030029297
+lfw: 0.974833+-0.007358
+ 
+
+[epoch  0] [it  8000] train loss: 0.995088, train_acc: 0.832266 | time: 164.295173
+Radius 44.86486053466797
+lfw: 0.973333+-0.010111
+ 
+
+[epoch  0] [it  8500] train loss: 0.950271, train_acc: 0.838047 | time: 165.210019
+Radius 45.247291564941406
+lfw: 0.971500+-0.008675
+ 
+
+[epoch  0] [it  9000] train loss: 0.910636, train_acc: 0.845367 | time: 165.372932
+Radius 45.552669525146484
+lfw: 0.976667+-0.008300
+ 
+
+[epoch  0] [it  9500] train loss: 0.870914, train_acc: 0.851313 | time: 164.548846
+Radius 45.8524169921875
+lfw: 0.973667+-0.007881
+ 
+
+[epoch  0] [it  10000] train loss: 0.841358, train_acc: 0.855563 | time: 165.186559
+Radius 46.1126594543457
+lfw: 0.971500+-0.009703
+ 
+
+[epoch  0] [it  10500] train loss: 0.806998, train_acc: 0.862391 | time: 165.320677
+Radius 46.3401985168457
+lfw: 0.975333+-0.008021
+ 
+
+[epoch  0] [it  11000] train loss: 0.791655, train_acc: 0.864727 | time: 164.356365
+Radius 46.532684326171875
+lfw: 0.974000+-0.007824
+ 
+
+[epoch  0] [it  11500] train loss: 0.752967, train_acc: 0.871309 | time: 159.066148
+Radius 46.77378845214844
+lfw: 0.975833+-0.008275
+ 
+
+[epoch  1] [it  12000] train loss: 0.514419, train_acc: 0.911670 | time: 188.213166
+Radius 47.52451705932617
+lfw: 0.975333+-0.007810
+ 
+
+[epoch  1] [it  12500] train loss: 0.507599, train_acc: 0.912496 | time: 165.643895
+Radius 48.112979888916016
+lfw: 0.974833+-0.007470
+ 
+
+[epoch  1] [it  13000] train loss: 0.525971, train_acc: 0.907574 | time: 165.171705
+Radius 48.514801025390625
+lfw: 0.975167+-0.006344
+ 
+
+[epoch  1] [it  13500] train loss: 0.532387, train_acc: 0.905910 | time: 165.191362
+Radius 48.81996536254883
+lfw: 0.976833+-0.007904
+ 
+
+[epoch  1] [it  14000] train loss: 0.541672, train_acc: 0.904223 | time: 164.981780
+Radius 49.028106689453125
+lfw: 0.976167+-0.006500
+ 
+
+[epoch  1] [it  14500] train loss: 0.542904, train_acc: 0.903477 | time: 164.665104
+Radius 49.18090057373047
+lfw: 0.973000+-0.008293
+ 
+
+[epoch  1] [it  15000] train loss: 0.552741, train_acc: 0.901996 | time: 165.508975
+Radius 49.23244094848633
+lfw: 0.973167+-0.008180
+ 
+
+[epoch  1] [it  15500] train loss: 0.559449, train_acc: 0.900188 | time: 165.644077
+Radius 49.29248809814453
+lfw: 0.978000+-0.007024
+ 
+
+[epoch  1] [it  16000] train loss: 0.567014, train_acc: 0.898980 | time: 164.053300
+Radius 49.29392623901367
+lfw: 0.978000+-0.006984
+ 
+
+[epoch  1] [it  16500] train loss: 0.564129, train_acc: 0.900188 | time: 165.127765
+Radius 49.331207275390625
+lfw: 0.978000+-0.006046
+ 
+
+[epoch  1] [it  17000] train loss: 0.561605, train_acc: 0.899672 | time: 165.725346
+Radius 49.369239807128906
+lfw: 0.978167+-0.005843
+ 
+
+[epoch  1] [it  17500] train loss: 0.565943, train_acc: 0.899441 | time: 165.988482
+Radius 49.36277770996094
+lfw: 0.977500+-0.007120
+ 
+
+[epoch  1] [it  18000] train loss: 0.567538, train_acc: 0.899551 | time: 164.983405
+Radius 49.340553283691406
+lfw: 0.978333+-0.006791
+ 
+
+[epoch  1] [it  18500] train loss: 0.568185, train_acc: 0.900066 | time: 165.282571
+Radius 49.327117919921875
+lfw: 0.978000+-0.007257
+ 
+
+[epoch  1] [it  19000] train loss: 0.560093, train_acc: 0.900410 | time: 165.438120
+Radius 49.34170150756836
+lfw: 0.979000+-0.007311
+ 
+
+[epoch  1] [it  19500] train loss: 0.558377, train_acc: 0.901070 | time: 165.557164
+Radius 49.334651947021484
+lfw: 0.974667+-0.005467
+ 
+
+[epoch  1] [it  20000] train loss: 0.560775, train_acc: 0.900766 | time: 164.765957
+Radius 49.31495666503906
+lfw: 0.976167+-0.006627
+ 
+
+[epoch  1] [it  20500] train loss: 0.551100, train_acc: 0.902367 | time: 165.104018
+Radius 49.31962203979492
+lfw: 0.977667+-0.007930
+ 
+
+[epoch  1] [it  21000] train loss: 0.549398, train_acc: 0.903105 | time: 165.455456
+Radius 49.28921890258789
+lfw: 0.977167+-0.007151
+ 
+
+[epoch  1] [it  21500] train loss: 0.546649, train_acc: 0.903773 | time: 165.197738
+Radius 49.28395462036133
+lfw: 0.976167+-0.008098
+ 
+
+[epoch  1] [it  22000] train loss: 0.539594, train_acc: 0.905066 | time: 165.320219
+Radius 49.2860107421875
+lfw: 0.974833+-0.009674
+ 
+
+[epoch  1] [it  22500] train loss: 0.536151, train_acc: 0.905926 | time: 164.566149
+Radius 49.30521011352539
+lfw: 0.978500+-0.008546
+ 
+
+[epoch  1] [it  23000] train loss: 0.531307, train_acc: 0.906984 | time: 160.292030
+Radius 49.291053771972656
+lfw: 0.979333+-0.009165
+ 
+
+[epoch  2] [it  23500] train loss: 0.340962, train_acc: 0.940602 | time: 180.499192
+Radius 49.72955322265625
+lfw: 0.978833+-0.008234
+ 
+
+[epoch  2] [it  24000] train loss: 0.313860, train_acc: 0.944738 | time: 165.713410
+Radius 50.123165130615234
+lfw: 0.979333+-0.007311
+ 
+
+[epoch  2] [it  24500] train loss: 0.326248, train_acc: 0.942746 | time: 165.042057
+Radius 50.42582321166992
+lfw: 0.977500+-0.007683
+ 
+
+[epoch  2] [it  25000] train loss: 0.337834, train_acc: 0.940020 | time: 164.452517
+Radius 50.67792510986328
+lfw: 0.974333+-0.008172
+ 
+
+[epoch  2] [it  25500] train loss: 0.360227, train_acc: 0.936133 | time: 166.584281
+Radius 50.843177795410156
+lfw: 0.980667+-0.006506
+ 
+
+[epoch  2] [it  26000] train loss: 0.367336, train_acc: 0.933992 | time: 165.042603
+Radius 50.97605895996094
+lfw: 0.977833+-0.007190
+ 
+
+[epoch  2] [it  26500] train loss: 0.384818, train_acc: 0.929879 | time: 165.475685
+Radius 51.071022033691406
+lfw: 0.978500+-0.007358
+ 
+
+[epoch  2] [it  27000] train loss: 0.398927, train_acc: 0.927863 | time: 164.910658
+Radius 51.101993560791016
+lfw: 0.977833+-0.005058
+ 
+
+[epoch  2] [it  27500] train loss: 0.411717, train_acc: 0.925242 | time: 165.607591
+Radius 51.089012145996094
+lfw: 0.976000+-0.007860
+ 
+
+[epoch  2] [it  28000] train loss: 0.422874, train_acc: 0.922531 | time: 164.589736
+Radius 51.071876525878906
+lfw: 0.980667+-0.005686
+ 
+
+[epoch  2] [it  28500] train loss: 0.439803, train_acc: 0.920059 | time: 165.967996
+Radius 51.00568389892578
+lfw: 0.978833+-0.010112
+ 
+
+[epoch  2] [it  29000] train loss: 0.442515, train_acc: 0.919562 | time: 164.499157
+Radius 50.9593505859375
+lfw: 0.977833+-0.005918
+ 
+
+[epoch  2] [it  29500] train loss: 0.452176, train_acc: 0.918012 | time: 165.941858
+Radius 50.879817962646484
+lfw: 0.978500+-0.007089
+ 
+
+[epoch  2] [it  30000] train loss: 0.455470, train_acc: 0.917504 | time: 166.759985
+Radius 50.82120132446289
+lfw: 0.978833+-0.006149
+ 
+
+[epoch  2] [it  30500] train loss: 0.461267, train_acc: 0.916133 | time: 165.202936
+Radius 50.742774963378906
+lfw: 0.978500+-0.005550
+ 
+
+[epoch  2] [it  31000] train loss: 0.462493, train_acc: 0.916133 | time: 164.999825
+Radius 50.664093017578125
+lfw: 0.978333+-0.010083
+ 
+
+[epoch  2] [it  31500] train loss: 0.468310, train_acc: 0.915551 | time: 167.209353
+Radius 50.566280364990234
+lfw: 0.978667+-0.006000
+ 
+
+[epoch  2] [it  32000] train loss: 0.471692, train_acc: 0.915105 | time: 166.394746
+Radius 50.497581481933594
+lfw: 0.977000+-0.008557
+ 
+
+[epoch  2] [it  32500] train loss: 0.468562, train_acc: 0.915637 | time: 165.031023
+Radius 50.445289611816406
+lfw: 0.979167+-0.007159
+ 
+
+[epoch  2] [it  33000] train loss: 0.462245, train_acc: 0.917082 | time: 165.551386
+Radius 50.3975715637207
+lfw: 0.977167+-0.008368
+ 
+
+[epoch  2] [it  33500] train loss: 0.470135, train_acc: 0.916059 | time: 164.709542
+Radius 50.32221984863281
+lfw: 0.978333+-0.007032
+ 
+
+[epoch  2] [it  34000] train loss: 0.473003, train_acc: 0.915449 | time: 165.610643
+Radius 50.23650360107422
+lfw: 0.979500+-0.006585
+ 
+
+[epoch  2] [it  34500] train loss: 0.458786, train_acc: 0.918199 | time: 162.869101
+Radius 50.20945358276367
+lfw: 0.981333+-0.008124
+ 
+
+[epoch  3] [it  35000] train loss: 0.311663, train_acc: 0.945552 | time: 181.402501
+Radius 50.435672760009766
+lfw: 0.979667+-0.007951
+ 
+
+[epoch  3] [it  35500] train loss: 0.273261, train_acc: 0.952527 | time: 165.025713
+Radius 50.697566986083984
+lfw: 0.977500+-0.008408
+ 
+
+[epoch  3] [it  36000] train loss: 0.274744, train_acc: 0.951898 | time: 164.915036
+Radius 50.91965103149414
+lfw: 0.980667+-0.007535
+ 
+
+[epoch  3] [it  36500] train loss: 0.293201, train_acc: 0.948246 | time: 164.715999
+Radius 51.066890716552734
+lfw: 0.977333+-0.008373
+ 
+
+[epoch  3] [it  37000] train loss: 0.305855, train_acc: 0.945648 | time: 164.260669
+Radius 51.17304229736328
+lfw: 0.981167+-0.009008
+ 
+
+[epoch  3] [it  37500] train loss: 0.316755, train_acc: 0.942855 | time: 165.937434
+Radius 51.26935577392578
+lfw: 0.978667+-0.007257
+ 
+
+[epoch  3] [it  38000] train loss: 0.329249, train_acc: 0.940895 | time: 164.941688
+Radius 51.33877944946289
+lfw: 0.977000+-0.005260
+ 
+
+[epoch  3] [it  38500] train loss: 0.344545, train_acc: 0.938113 | time: 165.597021
+Radius 51.374385833740234
+lfw: 0.980167+-0.005795
+ 
+
+[epoch  3] [it  39000] train loss: 0.359159, train_acc: 0.934621 | time: 165.018043
+Radius 51.38266372680664
+lfw: 0.980667+-0.005925
+ 
+
+[epoch  3] [it  39500] train loss: 0.367940, train_acc: 0.933008 | time: 165.585624
+Radius 51.364532470703125
+lfw: 0.980833+-0.007610
+ 
+
+[epoch  3] [it  40000] train loss: 0.377933, train_acc: 0.931637 | time: 164.826085
+Radius 51.357208251953125
+lfw: 0.977667+-0.007717
+ 
+
+[epoch  3] [it  40500] train loss: 0.392161, train_acc: 0.928668 | time: 165.780380
+Radius 51.30122756958008
+lfw: 0.979000+-0.008602
+ 
+
+[epoch  3] [it  41000] train loss: 0.398813, train_acc: 0.927832 | time: 165.333332
+Radius 51.23637008666992
+lfw: 0.978500+-0.006809
+ 
+
+[epoch  3] [it  41500] train loss: 0.406514, train_acc: 0.926895 | time: 164.922186
+Radius 51.192054748535156
+lfw: 0.980167+-0.006388
+ 
+
+[epoch  3] [it  42000] train loss: 0.411839, train_acc: 0.925422 | time: 164.608232
+Radius 51.1156120300293
+lfw: 0.977500+-0.007537
+ 
+
+[epoch  3] [it  42500] train loss: 0.421964, train_acc: 0.922820 | time: 165.655033
+Radius 51.022403717041016
+lfw: 0.976500+-0.007939
+ 
+
+[epoch  3] [it  43000] train loss: 0.420154, train_acc: 0.924492 | time: 164.296600
+Radius 50.93947219848633
+lfw: 0.982333+-0.006333
+ 
+
+[epoch  3] [it  43500] train loss: 0.426728, train_acc: 0.923039 | time: 165.381135
+Radius 50.851932525634766
+lfw: 0.980333+-0.007986
+ 
+
+[epoch  3] [it  44000] train loss: 0.427778, train_acc: 0.924078 | time: 166.279925
+Radius 50.77544403076172
+lfw: 0.981167+-0.006627
+ 
+
+[epoch  3] [it  44500] train loss: 0.424812, train_acc: 0.924242 | time: 164.991717
+Radius 50.68568420410156
+lfw: 0.981500+-0.007010
+ 
+
+[epoch  3] [it  45000] train loss: 0.429029, train_acc: 0.922891 | time: 164.968972
+Radius 50.5976448059082
+lfw: 0.978167+-0.008546
+ 
+
+[epoch  3] [it  45500] train loss: 0.432854, train_acc: 0.923043 | time: 165.735791
+Radius 50.514060974121094
+lfw: 0.978167+-0.007396
+ 
+
+[epoch  3] [it  46000] train loss: 0.435432, train_acc: 0.922480 | time: 162.946827
+Radius 50.41880798339844
+lfw: 0.981167+-0.007112
+ 
+
+[epoch  4] [it  46500] train loss: 0.297829, train_acc: 0.948049 | time: 180.974861
+Radius 50.56881332397461
+lfw: 0.983000+-0.006489
+ 
+
+[epoch  4] [it  47000] train loss: 0.239821, train_acc: 0.958973 | time: 165.637355
+Radius 50.7713737487793
+lfw: 0.980333+-0.005568
+ 
+
+[epoch  4] [it  47500] train loss: 0.249048, train_acc: 0.957223 | time: 164.453987
+Radius 50.93229675292969
+lfw: 0.980667+-0.005281
+ 
+
+[epoch  4] [it  48000] train loss: 0.256041, train_acc: 0.955141 | time: 165.464604
+Radius 51.066959381103516
+lfw: 0.981333+-0.006574
+ 
+
+[epoch  4] [it  48500] train loss: 0.272962, train_acc: 0.952086 | time: 164.782817
+Radius 51.15840148925781
+lfw: 0.979000+-0.006110
+ 
+
+[epoch  4] [it  49000] train loss: 0.279351, train_acc: 0.950488 | time: 165.671611
+Radius 51.25284194946289
+lfw: 0.979000+-0.006799
+ 
+
+[epoch  4] [it  49500] train loss: 0.303253, train_acc: 0.946004 | time: 165.110742
+Radius 51.30525207519531
+lfw: 0.980500+-0.008533
+ 
+
+[epoch  4] [it  50000] train loss: 0.309919, train_acc: 0.944410 | time: 165.808448
+Radius 51.34123992919922
+lfw: 0.980833+-0.007791
+ 
+
+[epoch  4] [it  50500] train loss: 0.321613, train_acc: 0.941461 | time: 165.852838
+Radius 51.36479187011719
+lfw: 0.980000+-0.007993
+ 
+
+[epoch  4] [it  51000] train loss: 0.336496, train_acc: 0.939555 | time: 165.020583
+Radius 51.366661071777344
+lfw: 0.979667+-0.007180
+ 
+
+[epoch  4] [it  51500] train loss: 0.349668, train_acc: 0.937027 | time: 165.657267
+Radius 51.32754135131836
+lfw: 0.980167+-0.007128
+ 
+
+[epoch  4] [it  52000] train loss: 0.354137, train_acc: 0.936043 | time: 165.483325
+Radius 51.28586196899414
+lfw: 0.978167+-0.009173
+ 
+
+[epoch  4] [it  52500] train loss: 0.365397, train_acc: 0.934121 | time: 165.212876
+Radius 51.24382400512695
+lfw: 0.978000+-0.008360
+ 
+
+[epoch  4] [it  53000] train loss: 0.373473, train_acc: 0.932867 | time: 165.644574
+Radius 51.19438934326172
+lfw: 0.981000+-0.006758
+ 
+
+[epoch  4] [it  53500] train loss: 0.381768, train_acc: 0.931336 | time: 164.730990
+Radius 51.106754302978516
+lfw: 0.979000+-0.007000
+ 
+
+[epoch  4] [it  54000] train loss: 0.388135, train_acc: 0.929570 | time: 165.363469
+Radius 51.05744934082031
+lfw: 0.979833+-0.005937
+ 
+
+[epoch  4] [it  54500] train loss: 0.386204, train_acc: 0.930703 | time: 165.139812
+Radius 50.986167907714844
+lfw: 0.977167+-0.007890
+ 
+
+[epoch  4] [it  55000] train loss: 0.393680, train_acc: 0.929488 | time: 165.269820
+Radius 50.91229248046875
+lfw: 0.979833+-0.007010
+ 
+
+[epoch  4] [it  55500] train loss: 0.398893, train_acc: 0.928359 | time: 164.343618
+Radius 50.82963180541992
+lfw: 0.978500+-0.006300
+ 
+
+[epoch  4] [it  56000] train loss: 0.396962, train_acc: 0.929586 | time: 165.121531
+Radius 50.76177215576172
+lfw: 0.979333+-0.008570
+ 
+
+[epoch  4] [it  56500] train loss: 0.398381, train_acc: 0.928844 | time: 165.189462
+Radius 50.69511413574219
+lfw: 0.981000+-0.007386
+ 
+
+[epoch  4] [it  57000] train loss: 0.401850, train_acc: 0.928766 | time: 165.356159
+Radius 50.61375045776367
+lfw: 0.977000+-0.008938
+ 
+
+[epoch  4] [it  57500] train loss: 0.396707, train_acc: 0.929320 | time: 163.432231
+Radius 50.55244064331055
+lfw: 0.977333+-0.008069
+ 
+
+[epoch  5] [it  58000] train loss: 0.296165, train_acc: 0.948245 | time: 178.302365
+Radius 50.63311767578125
+lfw: 0.980500+-0.005377
+ 
+
+[epoch  5] [it  58500] train loss: 0.226372, train_acc: 0.961387 | time: 164.547001
+Radius 50.762535095214844
+lfw: 0.979000+-0.008340
+ 
+
+[epoch  5] [it  59000] train loss: 0.229859, train_acc: 0.960719 | time: 164.074827
+Radius 50.87498474121094
+lfw: 0.979833+-0.007618
+ 
+
+[epoch  5] [it  59500] train loss: 0.239641, train_acc: 0.959250 | time: 165.076711
+Radius 50.98041915893555
+lfw: 0.980333+-0.007257
+ 
+
+[epoch  5] [it  60000] train loss: 0.247600, train_acc: 0.957074 | time: 163.803041
+Radius 51.06755447387695
+lfw: 0.982167+-0.006058
+ 
+
+[epoch  5] [it  60500] train loss: 0.258351, train_acc: 0.954523 | time: 164.736823
+Radius 51.13081741333008
+lfw: 0.984167+-0.005833
+ 
+
+[epoch  5] [it  61000] train loss: 0.275569, train_acc: 0.951500 | time: 165.903951
+Radius 51.18110656738281
+lfw: 0.978333+-0.006055
+ 
+
+[epoch  5] [it  61500] train loss: 0.286359, train_acc: 0.949469 | time: 165.164871
+Radius 51.20893478393555
+lfw: 0.979167+-0.006067
+ 
+
+[epoch  5] [it  62000] train loss: 0.297475, train_acc: 0.947250 | time: 165.601856
+Radius 51.23746109008789
+lfw: 0.980500+-0.007034
+ 
+
+[epoch  5] [it  62500] train loss: 0.310352, train_acc: 0.944586 | time: 166.279200
+Radius 51.26450729370117
+lfw: 0.978167+-0.005747
+ 
+
+[epoch  5] [it  63000] train loss: 0.322009, train_acc: 0.942094 | time: 165.378757
+Radius 51.265987396240234
+lfw: 0.981833+-0.007049
+ 
+
+[epoch  5] [it  63500] train loss: 0.328290, train_acc: 0.941461 | time: 165.082846
+Radius 51.248104095458984
+lfw: 0.979500+-0.006283
+ 
+
+[epoch  5] [it  64000] train loss: 0.338799, train_acc: 0.939730 | time: 165.794651
+Radius 51.21336364746094
+lfw: 0.982167+-0.005776
+ 
+
+[epoch  5] [it  64500] train loss: 0.346531, train_acc: 0.937766 | time: 164.884415
+Radius 51.16184616088867
+lfw: 0.975667+-0.008000
+ 
+
+[epoch  5] [it  65000] train loss: 0.358792, train_acc: 0.935367 | time: 164.794689
+Radius 51.099205017089844
+lfw: 0.979667+-0.006046
+ 
+
+[epoch  5] [it  65500] train loss: 0.364590, train_acc: 0.934539 | time: 164.791877
+Radius 51.05105209350586
+lfw: 0.980333+-0.007024
+ 
+
+[epoch  5] [it  66000] train loss: 0.369003, train_acc: 0.934605 | time: 165.925995
+Radius 50.994659423828125
+lfw: 0.982167+-0.006543
+ 
+
+[epoch  5] [it  66500] train loss: 0.378127, train_acc: 0.932035 | time: 165.295049
+Radius 50.896060943603516
+lfw: 0.983000+-0.005467
+ 
+
+[epoch  5] [it  67000] train loss: 0.377317, train_acc: 0.932660 | time: 165.564384
+Radius 50.81644058227539
+lfw: 0.977833+-0.005965
+ 
+
+[epoch  5] [it  67500] train loss: 0.384969, train_acc: 0.931766 | time: 165.699233
+Radius 50.73410415649414
+lfw: 0.978000+-0.006782
+ 
+
+[epoch  5] [it  68000] train loss: 0.380836, train_acc: 0.932238 | time: 164.861033
+Radius 50.64653778076172
+lfw: 0.981500+-0.006344
+ 
+
+[epoch  5] [it  68500] train loss: 0.381338, train_acc: 0.932539 | time: 165.936913
+Radius 50.59075927734375
+lfw: 0.983500+-0.006517
+ 
+
+[epoch  5] [it  69000] train loss: 0.385681, train_acc: 0.932199 | time: 164.459456
+Radius 50.50040054321289
+lfw: 0.982500+-0.004729
+ 
+
+[epoch  6] [it  69500] train loss: 0.293333, train_acc: 0.949140 | time: 179.081311
+Radius 50.52805709838867
+lfw: 0.981667+-0.008028
+ 
+
+[epoch  6] [it  70000] train loss: 0.215027, train_acc: 0.963828 | time: 164.372512
+Radius 50.640933990478516
+lfw: 0.979333+-0.007498
+ 
+
+[epoch  6] [it  70500] train loss: 0.218346, train_acc: 0.963137 | time: 164.323902
+Radius 50.71457290649414
+lfw: 0.985167+-0.005937
+ 
+
+[epoch  6] [it  71000] train loss: 0.223712, train_acc: 0.962262 | time: 165.541924
+Radius 50.82202911376953
+lfw: 0.980833+-0.007791
+ 
+
+[epoch  6] [it  71500] train loss: 0.234901, train_acc: 0.959562 | time: 165.084694
+Radius 50.90372085571289
+lfw: 0.984667+-0.006227
+ 
+
+[epoch  6] [it  72000] train loss: 0.244106, train_acc: 0.957988 | time: 165.813810
+Radius 50.95668029785156
+lfw: 0.979500+-0.006669
+ 
+
+[epoch  6] [it  72500] train loss: 0.255603, train_acc: 0.954984 | time: 165.420398
+Radius 50.98958206176758
+lfw: 0.977833+-0.006954
+ 
+
+[epoch  6] [it  73000] train loss: 0.266407, train_acc: 0.953406 | time: 164.992237
+Radius 51.038455963134766
+lfw: 0.978333+-0.007888
+ 
+
+[epoch  6] [it  73500] train loss: 0.275161, train_acc: 0.951750 | time: 165.818450
+Radius 51.08019256591797
+lfw: 0.981667+-0.006540
+ 
+
+[epoch  6] [it  74000] train loss: 0.289533, train_acc: 0.948711 | time: 165.271142
+Radius 51.08334732055664
+lfw: 0.981000+-0.008919
+ 
+
+[epoch  6] [it  74500] train loss: 0.300604, train_acc: 0.947012 | time: 166.223435
+Radius 51.06687545776367
+lfw: 0.978833+-0.007639
+ 
+
+[epoch  6] [it  75000] train loss: 0.314622, train_acc: 0.943684 | time: 166.068300
+Radius 51.063148498535156
+lfw: 0.982167+-0.008662
+ 
+
+[epoch  6] [it  75500] train loss: 0.324232, train_acc: 0.941875 | time: 165.459196
+Radius 51.05669021606445
+lfw: 0.981500+-0.005984
+ 
+
+[epoch  6] [it  76000] train loss: 0.330447, train_acc: 0.941531 | time: 165.091094
+Radius 51.028717041015625
+lfw: 0.981333+-0.006092
+ 
+
+[epoch  6] [it  76500] train loss: 0.344352, train_acc: 0.938500 | time: 165.255251
+Radius 50.982948303222656
+lfw: 0.981667+-0.005217
+ 
+
+[epoch  6] [it  77000] train loss: 0.348241, train_acc: 0.938371 | time: 165.106071
+Radius 50.97261428833008
+lfw: 0.978833+-0.007784
+ 
+
+[epoch  6] [it  77500] train loss: 0.355503, train_acc: 0.936645 | time: 165.050003
+Radius 50.927284240722656
+lfw: 0.980333+-0.006182
+ 
+
+[epoch  6] [it  78000] train loss: 0.359957, train_acc: 0.936160 | time: 164.504265
+Radius 50.87047576904297
+lfw: 0.978833+-0.007639
+ 
+
+[epoch  6] [it  78500] train loss: 0.361518, train_acc: 0.936031 | time: 165.569083
+Radius 50.82047653198242
+lfw: 0.977167+-0.007603
+ 
+
+[epoch  6] [it  79000] train loss: 0.367238, train_acc: 0.934832 | time: 165.776284
+Radius 50.72843551635742
+lfw: 0.980333+-0.007951
+ 
+
+[epoch  6] [it  79500] train loss: 0.366957, train_acc: 0.935449 | time: 164.692321
+Radius 50.645145416259766
+lfw: 0.982333+-0.006464
+ 
+
+[epoch  6] [it  80000] train loss: 0.365983, train_acc: 0.935527 | time: 166.023058
+Radius 50.585140228271484
+lfw: 0.985167+-0.006644
+ 
+
+[epoch  6] [it  80500] train loss: 0.370368, train_acc: 0.935000 | time: 164.697957
+Radius 50.50783920288086
+lfw: 0.982167+-0.008268
+ 
+
+[epoch  7] [it  81000] train loss: 0.297942, train_acc: 0.948561 | time: 178.742918
+Radius 50.51602554321289
+lfw: 0.983667+-0.006741
+ 
+
+[epoch  7] [it  81500] train loss: 0.205156, train_acc: 0.965711 | time: 166.223115
+Radius 50.603233337402344
+lfw: 0.984667+-0.005617
+ 
+
+[epoch  7] [it  82000] train loss: 0.208957, train_acc: 0.964852 | time: 164.966761
+Radius 50.672340393066406
+lfw: 0.978667+-0.007810
+ 
+
+[epoch  7] [it  82500] train loss: 0.215819, train_acc: 0.963668 | time: 164.631500
+Radius 50.73850631713867
+lfw: 0.984333+-0.007040
+ 
+
+[epoch  7] [it  83000] train loss: 0.221693, train_acc: 0.962695 | time: 166.117698
+Radius 50.795284271240234
+lfw: 0.980833+-0.006292
+ 
+
+[epoch  7] [it  83500] train loss: 0.234232, train_acc: 0.960020 | time: 165.382256
+Radius 50.828556060791016
+lfw: 0.980833+-0.008441
+ 
+
+[epoch  7] [it  84000] train loss: 0.245980, train_acc: 0.957879 | time: 165.083300
+Radius 50.87385559082031
+lfw: 0.980667+-0.008888
+ 
+
+[epoch  7] [it  84500] train loss: 0.255178, train_acc: 0.955828 | time: 164.906984
+Radius 50.923702239990234
+lfw: 0.979833+-0.007833
+ 
+
+[epoch  7] [it  85000] train loss: 0.264117, train_acc: 0.954320 | time: 165.255040
+Radius 50.94576644897461
+lfw: 0.978500+-0.007939
+ 
+
+[epoch  7] [it  85500] train loss: 0.279026, train_acc: 0.951035 | time: 165.469666
+Radius 50.957847595214844
+lfw: 0.978333+-0.005916
+ 
+
+[epoch  7] [it  86000] train loss: 0.292342, train_acc: 0.948633 | time: 164.963083
+Radius 50.967811584472656
+lfw: 0.981833+-0.006685
+ 
+
+[epoch  7] [it  86500] train loss: 0.300465, train_acc: 0.946879 | time: 165.295298
+Radius 50.9844970703125
+lfw: 0.983167+-0.005843
+ 
+
+[epoch  7] [it  87000] train loss: 0.305886, train_acc: 0.945910 | time: 165.652439
+Radius 50.97673416137695
+lfw: 0.978000+-0.007371
+ 
+
+[epoch  7] [it  87500] train loss: 0.318123, train_acc: 0.943559 | time: 164.616592
+Radius 50.94705581665039
+lfw: 0.978667+-0.008090
+ 
+
+[epoch  7] [it  88000] train loss: 0.329649, train_acc: 0.941391 | time: 164.850863
+Radius 50.89575958251953
+lfw: 0.981167+-0.008167
+ 
+
+[epoch  7] [it  88500] train loss: 0.337742, train_acc: 0.939973 | time: 165.360016
+Radius 50.867591857910156
+lfw: 0.982000+-0.005207
+ 
+
+[epoch  7] [it  89000] train loss: 0.342209, train_acc: 0.938984 | time: 164.823072
+Radius 50.81940460205078
+lfw: 0.979000+-0.005783
+ 
+
+[epoch  7] [it  89500] train loss: 0.348549, train_acc: 0.937937 | time: 165.520338
+Radius 50.76438903808594
+lfw: 0.978500+-0.008146
+ 
+
+[epoch  7] [it  90000] train loss: 0.347468, train_acc: 0.938031 | time: 165.143681
+Radius 50.7164421081543
+lfw: 0.979833+-0.008896
+ 
+
+[epoch  7] [it  90500] train loss: 0.355269, train_acc: 0.937617 | time: 165.679091
+Radius 50.639320373535156
+lfw: 0.981333+-0.006984
+ 
+
+[epoch  7] [it  91000] train loss: 0.358275, train_acc: 0.936875 | time: 164.230880
+Radius 50.574012756347656
+lfw: 0.980167+-0.007244
+ 
+
+[epoch  7] [it  91500] train loss: 0.356650, train_acc: 0.936766 | time: 165.459630
+Radius 50.53001403808594
+lfw: 0.981833+-0.006344
+ 
+
+[epoch  7] [it  92000] train loss: 0.360177, train_acc: 0.936562 | time: 164.830169
+Radius 50.46100997924805
+lfw: 0.979833+-0.007939
+ 
+
+[epoch  8] [it  92500] train loss: 0.303951, train_acc: 0.947635 | time: 177.687510
+Radius 50.43769454956055
+lfw: 0.983500+-0.006517
+ 
+
+[epoch  8] [it  93000] train loss: 0.194013, train_acc: 0.968219 | time: 165.219923
+Radius 50.50161361694336
+lfw: 0.982333+-0.004422
+ 
+
+[epoch  8] [it  93500] train loss: 0.198848, train_acc: 0.966926 | time: 165.193575
+Radius 50.56053161621094
+lfw: 0.979167+-0.006292
+ 
+
+[epoch  8] [it  94000] train loss: 0.204690, train_acc: 0.966031 | time: 165.448109
+Radius 50.60879898071289
+lfw: 0.984000+-0.007386
+ 
+
+[epoch  8] [it  94500] train loss: 0.213220, train_acc: 0.964191 | time: 164.243262
+Radius 50.65818786621094
+lfw: 0.981333+-0.007257
+ 
+
+[epoch  8] [it  95000] train loss: 0.218129, train_acc: 0.963297 | time: 164.821613
+Radius 50.70488739013672
+lfw: 0.977833+-0.007712
+ 
+
+[epoch  8] [it  95500] train loss: 0.232385, train_acc: 0.960133 | time: 165.206661
+Radius 50.75191116333008
+lfw: 0.982167+-0.005630
+ 
+
+[epoch  8] [it  96000] train loss: 0.243146, train_acc: 0.958266 | time: 165.384933
+Radius 50.789608001708984
+lfw: 0.982833+-0.006283
+ 
+
+[epoch  8] [it  96500] train loss: 0.255671, train_acc: 0.955660 | time: 164.939447
+Radius 50.83390426635742
+lfw: 0.982833+-0.005824
+ 
+
+[epoch  8] [it  97000] train loss: 0.265610, train_acc: 0.953734 | time: 165.657257
+Radius 50.846187591552734
+lfw: 0.983167+-0.006602
+ 
+
+[epoch  8] [it  97500] train loss: 0.277162, train_acc: 0.951574 | time: 165.051745
+Radius 50.8448486328125
+lfw: 0.980333+-0.005207
+ 
+
+[epoch  8] [it  98000] train loss: 0.290993, train_acc: 0.948586 | time: 165.827388
+Radius 50.848106384277344
+lfw: 0.982833+-0.006994
+ 
+
+[epoch  8] [it  98500] train loss: 0.303401, train_acc: 0.946527 | time: 165.973296
+Radius 50.840606689453125
+lfw: 0.981333+-0.007483
+ 
+
+[epoch  8] [it  99000] train loss: 0.308257, train_acc: 0.945281 | time: 166.441817
+Radius 50.822811126708984
+lfw: 0.982333+-0.006420
+ 
+
+[epoch  8] [it  99500] train loss: 0.318730, train_acc: 0.944367 | time: 164.853282
+Radius 50.787879943847656
+lfw: 0.978667+-0.007810
+ 
+
+[epoch  8] [it  100000] train loss: 0.322290, train_acc: 0.942852 | time: 165.727865
+Radius 50.77336120605469
+lfw: 0.981333+-0.006658
+ 
+
+[epoch  8] [it  100500] train loss: 0.328167, train_acc: 0.941809 | time: 164.944007
+Radius 50.754390716552734
+lfw: 0.982167+-0.005273
+ 
+
+[epoch  8] [it  101000] train loss: 0.333773, train_acc: 0.940785 | time: 166.425773
+Radius 50.703025817871094
+lfw: 0.980167+-0.006930
+ 
+
+[epoch  8] [it  101500] train loss: 0.340637, train_acc: 0.939617 | time: 165.473891
+Radius 50.65595245361328
+lfw: 0.980500+-0.006914
+ 
+
+[epoch  8] [it  102000] train loss: 0.346123, train_acc: 0.938844 | time: 165.000633
+Radius 50.58049392700195
+lfw: 0.979167+-0.006719
+ 
+
+[epoch  8] [it  102500] train loss: 0.351221, train_acc: 0.938371 | time: 165.028031
+Radius 50.5180549621582
+lfw: 0.980167+-0.006256
+ 
+
+[epoch  8] [it  103000] train loss: 0.352418, train_acc: 0.938367 | time: 165.578299
+Radius 50.430789947509766
+lfw: 0.984000+-0.007272
+ 
+
+[epoch  8] [it  103500] train loss: 0.347019, train_acc: 0.939574 | time: 164.352111
+Radius 50.40989303588867
+lfw: 0.980667+-0.005783
+ 
+
+[epoch  9] [it  104000] train loss: 0.304372, train_acc: 0.947522 | time: 178.781510
+Radius 50.39128875732422
+lfw: 0.983333+-0.006455
+ 
+
+[epoch  9] [it  104500] train loss: 0.193477, train_acc: 0.967785 | time: 163.043329
+Radius 50.42476272583008
+lfw: 0.982833+-0.006833
+ 
+
+[epoch  9] [it  105000] train loss: 0.191912, train_acc: 0.968855 | time: 164.906834
+Radius 50.46637725830078
+lfw: 0.983500+-0.005188
+ 
+
+[epoch  9] [it  105500] train loss: 0.198011, train_acc: 0.966816 | time: 164.498909
+Radius 50.52739334106445
+lfw: 0.985167+-0.004561
+ 
+
+[epoch  9] [it  106000] train loss: 0.206017, train_acc: 0.965645 | time: 164.517714
+Radius 50.55784606933594
+lfw: 0.981500+-0.005025
+ 
+
+[epoch  9] [it  106500] train loss: 0.217612, train_acc: 0.963406 | time: 164.735793
+Radius 50.6019401550293
+lfw: 0.980667+-0.006155
+ 
+
+[epoch  9] [it  107000] train loss: 0.223597, train_acc: 0.962262 | time: 165.027526
+Radius 50.646976470947266
+lfw: 0.982667+-0.006018
+ 
+
+[epoch  9] [it  107500] train loss: 0.237279, train_acc: 0.959699 | time: 165.123198
+Radius 50.68118667602539
+lfw: 0.981667+-0.005869
+ 
+
+[epoch  9] [it  108000] train loss: 0.246578, train_acc: 0.957406 | time: 165.446604
+Radius 50.70314025878906
+lfw: 0.980667+-0.006018
+ 
+
+[epoch  9] [it  108500] train loss: 0.261265, train_acc: 0.954629 | time: 166.351094
+Radius 50.71034622192383
+lfw: 0.981500+-0.005188
+ 
+
+[epoch  9] [it  109000] train loss: 0.268617, train_acc: 0.953246 | time: 165.255396
+Radius 50.737693786621094
+lfw: 0.981667+-0.006498
+ 
+
+[epoch  9] [it  109500] train loss: 0.274620, train_acc: 0.951891 | time: 165.396944
+Radius 50.77251434326172
+lfw: 0.981333+-0.006092
+ 
+
+[epoch  9] [it  110000] train loss: 0.287896, train_acc: 0.949410 | time: 166.519305
+Radius 50.77687454223633
+lfw: 0.981833+-0.006076
+ 
+
+[epoch  9] [it  110500] train loss: 0.296664, train_acc: 0.948031 | time: 165.603936
+Radius 50.75682067871094
+lfw: 0.983333+-0.006236
+ 
+
+[epoch  9] [it  111000] train loss: 0.305860, train_acc: 0.945684 | time: 164.747304
+Radius 50.742103576660156
+lfw: 0.978833+-0.006149
+ 
+
+[epoch  9] [it  111500] train loss: 0.316631, train_acc: 0.944434 | time: 165.016463
+Radius 50.709041595458984
+lfw: 0.981667+-0.007601
+ 
+
+[epoch  9] [it  112000] train loss: 0.320174, train_acc: 0.943367 | time: 164.930190
+Radius 50.65804672241211
+lfw: 0.980000+-0.005477
+ 
+
+[epoch  9] [it  112500] train loss: 0.327417, train_acc: 0.942117 | time: 165.176174
+Radius 50.615787506103516
+lfw: 0.982333+-0.006633
+ 
+
+[epoch  9] [it  113000] train loss: 0.336975, train_acc: 0.940566 | time: 164.413002
+Radius 50.55610275268555
+lfw: 0.978000+-0.007775
+ 
+
+[epoch  9] [it  113500] train loss: 0.331313, train_acc: 0.942582 | time: 164.978280
+Radius 50.529388427734375
+lfw: 0.980000+-0.006583
+ 
+
+[epoch  9] [it  114000] train loss: 0.338597, train_acc: 0.940703 | time: 166.116070
+Radius 50.46440505981445
+lfw: 0.983333+-0.006236
+ 
+
+[epoch  9] [it  114500] train loss: 0.338625, train_acc: 0.940898 | time: 164.548744
+Radius 50.41575622558594
+lfw: 0.984667+-0.007257
+ 
+
+[epoch  9] [it  115000] train loss: 0.342865, train_acc: 0.939555 | time: 164.018442
+Radius 50.353885650634766
+lfw: 0.981500+-0.006727
+ 
+
+[epoch  10] [it  115500] train loss: 0.315639, train_acc: 0.945642 | time: 179.683654
+Radius 50.3427619934082
+lfw: 0.981500+-0.006388
+ 
+
+[epoch  10] [it  116000] train loss: 0.191194, train_acc: 0.968480 | time: 162.240443
+Radius 50.38394546508789
+lfw: 0.986333+-0.006700
+ 
+
+[epoch  10] [it  116500] train loss: 0.186882, train_acc: 0.969387 | time: 165.411801
+Radius 50.42670440673828
+lfw: 0.981167+-0.008268
+ 
+
+[epoch  10] [it  117000] train loss: 0.192214, train_acc: 0.968297 | time: 165.813279
+Radius 50.459617614746094
+lfw: 0.983500+-0.007618
+ 
+
+[epoch  10] [it  117500] train loss: 0.203820, train_acc: 0.966027 | time: 166.073673
+Radius 50.48023986816406
+lfw: 0.981000+-0.004295
+ 
+
+[epoch  10] [it  118000] train loss: 0.210994, train_acc: 0.964605 | time: 165.762345
+Radius 50.51451873779297
+lfw: 0.981167+-0.007228
+ 
+
+[epoch  10] [it  118500] train loss: 0.217197, train_acc: 0.963652 | time: 165.874792
+Radius 50.54621124267578
+lfw: 0.982000+-0.007881
+ 
+
+[epoch  10] [it  119000] train loss: 0.223107, train_acc: 0.962004 | time: 166.775583
+Radius 50.61271286010742
+lfw: 0.979667+-0.007257
+ 
+
+[epoch  10] [it  119500] train loss: 0.240077, train_acc: 0.959387 | time: 165.685603
+Radius 50.63359832763672
+lfw: 0.983000+-0.005312
+ 
+
+[epoch  10] [it  120000] train loss: 0.253607, train_acc: 0.956219 | time: 164.882454
+Radius 50.66230773925781
+lfw: 0.981000+-0.004607
+ 
+
+[epoch  10] [it  120500] train loss: 0.258811, train_acc: 0.954937 | time: 166.635055
+Radius 50.713191986083984
+lfw: 0.980667+-0.007311
+ 
+
+[epoch  10] [it  121000] train loss: 0.275274, train_acc: 0.952230 | time: 166.537730
+Radius 50.71120834350586
+lfw: 0.983500+-0.007320
+ 
+
+[epoch  10] [it  121500] train loss: 0.280966, train_acc: 0.950711 | time: 165.652494
+Radius 50.7178955078125
+lfw: 0.980167+-0.006300
+ 
+
+[epoch  10] [it  122000] train loss: 0.294934, train_acc: 0.947887 | time: 166.039695
+Radius 50.69879150390625
+lfw: 0.981000+-0.008731
+ 
+
+[epoch  10] [it  122500] train loss: 0.298621, train_acc: 0.947961 | time: 164.158082
+Radius 50.68695831298828
+lfw: 0.977000+-0.007409
+ 
+
+[epoch  10] [it  123000] train loss: 0.304526, train_acc: 0.946750 | time: 165.865911
+Radius 50.67110824584961
+lfw: 0.981333+-0.006823
+ 
+
+[epoch  10] [it  123500] train loss: 0.315847, train_acc: 0.944855 | time: 165.396538
+Radius 50.64925765991211
+lfw: 0.981000+-0.007535
+ 
+
+[epoch  10] [it  124000] train loss: 0.319096, train_acc: 0.943488 | time: 165.290385
+Radius 50.625640869140625
+lfw: 0.984167+-0.007350
+ 
+
+[epoch  10] [it  124500] train loss: 0.326506, train_acc: 0.942039 | time: 165.338172
+Radius 50.574039459228516
+lfw: 0.983500+-0.007470
+ 
+
+[epoch  10] [it  125000] train loss: 0.329782, train_acc: 0.941820 | time: 165.542548
+Radius 50.52522659301758
+lfw: 0.984333+-0.006064
+ 
+
+[epoch  10] [it  125500] train loss: 0.335974, train_acc: 0.941383 | time: 165.720924
+Radius 50.459651947021484
+lfw: 0.980333+-0.005467
+ 
+
+[epoch  10] [it  126000] train loss: 0.336450, train_acc: 0.940887 | time: 164.285715
+Radius 50.40300750732422
+lfw: 0.980833+-0.006882
+ 
+
+[epoch  10] [it  126500] train loss: 0.335939, train_acc: 0.941348 | time: 165.918206
+Radius 50.34743118286133
+lfw: 0.979333+-0.006333
+ 
+
+[epoch  11] [it  127000] train loss: 0.315784, train_acc: 0.945392 | time: 181.740898
+Radius 50.3145637512207
+lfw: 0.981167+-0.005965
+ 
+
+[epoch  11] [it  127500] train loss: 0.187173, train_acc: 0.969469 | time: 162.957590
+Radius 50.354549407958984
+lfw: 0.982167+-0.006371
+ 
+
+[epoch  11] [it  128000] train loss: 0.185347, train_acc: 0.969609 | time: 164.656056
+Radius 50.379127502441406
+lfw: 0.979833+-0.009142
+ 
+
+[epoch  11] [it  128500] train loss: 0.191585, train_acc: 0.968258 | time: 164.544769
+Radius 50.39469528198242
+lfw: 0.983333+-0.005270
+ 
+
+[epoch  11] [it  129000] train loss: 0.197390, train_acc: 0.967109 | time: 165.328036
+Radius 50.414794921875
+lfw: 0.981333+-0.006000
+ 
+
+[epoch  11] [it  129500] train loss: 0.200217, train_acc: 0.966313 | time: 165.234001
+Radius 50.452152252197266
+lfw: 0.980167+-0.006768
+ 
+
+[epoch  11] [it  130000] train loss: 0.204582, train_acc: 0.965848 | time: 166.039199
+Radius 50.50326156616211
+lfw: 0.984000+-0.005385
+ 
+
+[epoch  11] [it  130500] train loss: 0.222268, train_acc: 0.962176 | time: 166.686611
+Radius 50.52919387817383
+lfw: 0.980500+-0.008268
+ 
+
+[epoch  11] [it  131000] train loss: 0.227200, train_acc: 0.962004 | time: 165.254601
+Radius 50.56608200073242
+lfw: 0.982000+-0.008090
+ 
+
+[epoch  11] [it  131500] train loss: 0.243842, train_acc: 0.957848 | time: 164.918611
+Radius 50.595001220703125
+lfw: 0.982000+-0.006137
+ 
+
+[epoch  11] [it  132000] train loss: 0.257011, train_acc: 0.955531 | time: 165.161546
+Radius 50.60268783569336
+lfw: 0.978500+-0.007904
+ 
+
+[epoch  11] [it  132500] train loss: 0.266262, train_acc: 0.953355 | time: 165.399806
+Radius 50.61363220214844
+lfw: 0.978833+-0.007455
+ 
+
+[epoch  11] [it  133000] train loss: 0.275170, train_acc: 0.952566 | time: 165.517622
+Radius 50.62896728515625
+lfw: 0.980500+-0.007267
+ 
+
+[epoch  11] [it  133500] train loss: 0.288439, train_acc: 0.949754 | time: 166.044559
+Radius 50.63355255126953
+lfw: 0.978333+-0.008975
+ 
+
+[epoch  11] [it  134000] train loss: 0.293279, train_acc: 0.949047 | time: 166.180496
+Radius 50.60993576049805
+lfw: 0.978833+-0.008029
+ 
+
+[epoch  11] [it  134500] train loss: 0.300925, train_acc: 0.947465 | time: 166.102638
+Radius 50.59608840942383
+lfw: 0.978333+-0.008300
+ 
+
+[epoch  11] [it  135000] train loss: 0.308406, train_acc: 0.945770 | time: 165.757694
+Radius 50.57024383544922
+lfw: 0.976500+-0.007690
+ 
+
+[epoch  11] [it  135500] train loss: 0.317226, train_acc: 0.944887 | time: 164.423188
+Radius 50.51881790161133
+lfw: 0.980167+-0.007049
+ 
+
+[epoch  11] [it  136000] train loss: 0.319388, train_acc: 0.943895 | time: 165.641588
+Radius 50.50320816040039
+lfw: 0.980000+-0.006992
+ 
+
+[epoch  11] [it  136500] train loss: 0.321567, train_acc: 0.943309 | time: 165.416741
+Radius 50.46425247192383
+lfw: 0.980833+-0.008071
+ 
+
+[epoch  11] [it  137000] train loss: 0.329098, train_acc: 0.942613 | time: 165.692518
+Radius 50.433921813964844
+lfw: 0.981833+-0.005843
+ 
+
+[epoch  11] [it  137500] train loss: 0.329818, train_acc: 0.942219 | time: 164.862069
+Radius 50.38427734375
+lfw: 0.979000+-0.006675
+ 
+
+[epoch  11] [it  138000] train loss: 0.331171, train_acc: 0.941973 | time: 165.085281
+Radius 50.33846664428711
+lfw: 0.983500+-0.004682
+ 
+
+[epoch  12] [it  138500] train loss: 0.327038, train_acc: 0.943360 | time: 181.565698
+Radius 50.28117370605469
+lfw: 0.981500+-0.006890
+ 
+
+[epoch  12] [it  139000] train loss: 0.183935, train_acc: 0.969953 | time: 161.618438
+Radius 50.31867599487305
+lfw: 0.985000+-0.005578
+ 
+
+[epoch  12] [it  139500] train loss: 0.183553, train_acc: 0.969984 | time: 164.816512
+Radius 50.31209945678711
+lfw: 0.979667+-0.005617
+ 
+
+[epoch  12] [it  140000] train loss: 0.186699, train_acc: 0.969125 | time: 165.105039
+Radius 50.33426284790039
+lfw: 0.983000+-0.004397
+ 
+
+[epoch  12] [it  140500] train loss: 0.196960, train_acc: 0.967258 | time: 165.807084
+Radius 50.3265495300293
+lfw: 0.982667+-0.008406
+ 
+
+[epoch  12] [it  141000] train loss: 0.202971, train_acc: 0.966273 | time: 166.626805
+Radius 50.35548400878906
+lfw: 0.983667+-0.005467
+ 
+
+[epoch  12] [it  141500] train loss: 0.208879, train_acc: 0.964855 | time: 164.981319
+Radius 50.38880157470703
+lfw: 0.979000+-0.006920
+ 
+
+[epoch  12] [it  142000] train loss: 0.221216, train_acc: 0.962574 | time: 165.768757
+Radius 50.43761444091797
+lfw: 0.979333+-0.006464
+ 
+
+[epoch  12] [it  142500] train loss: 0.227236, train_acc: 0.961359 | time: 165.874284
+Radius 50.47539138793945
+lfw: 0.984833+-0.006256
+ 
+
+[epoch  12] [it  143000] train loss: 0.235081, train_acc: 0.959953 | time: 165.062598
+Radius 50.53062057495117
+lfw: 0.982167+-0.006238
+ 
+
+[epoch  12] [it  143500] train loss: 0.250345, train_acc: 0.956992 | time: 166.157327
+Radius 50.560821533203125
+lfw: 0.982833+-0.006238
+ 
+
+[epoch  12] [it  144000] train loss: 0.254627, train_acc: 0.956145 | time: 165.865359
+Radius 50.59862518310547
+lfw: 0.983000+-0.005617
+ 
+
+[epoch  12] [it  144500] train loss: 0.265255, train_acc: 0.954348 | time: 166.587607
+Radius 50.60707092285156
+lfw: 0.974500+-0.006012
+ 
+
+[epoch  12] [it  145000] train loss: 0.277107, train_acc: 0.951934 | time: 165.777744
+Radius 50.59690475463867
+lfw: 0.981500+-0.006890
+ 
+
+[epoch  12] [it  145500] train loss: 0.289934, train_acc: 0.949422 | time: 166.237545
+Radius 50.57150650024414
+lfw: 0.978833+-0.008434
+ 
+
+[epoch  12] [it  146000] train loss: 0.295978, train_acc: 0.948145 | time: 166.084514
+Radius 50.59077072143555
+lfw: 0.980167+-0.006300
+ 
+
+[epoch  12] [it  146500] train loss: 0.304802, train_acc: 0.946527 | time: 165.381050
+Radius 50.56228256225586
+lfw: 0.980167+-0.006431
+ 
+
+[epoch  12] [it  147000] train loss: 0.304647, train_acc: 0.946348 | time: 165.654660
+Radius 50.54927062988281
+lfw: 0.981667+-0.006791
+ 
+
+[epoch  12] [it  147500] train loss: 0.318139, train_acc: 0.944074 | time: 166.895839
+Radius 50.515037536621094
+lfw: 0.982833+-0.005776
+ 
+
+[epoch  12] [it  148000] train loss: 0.318656, train_acc: 0.944281 | time: 164.652917
+Radius 50.46839141845703
+lfw: 0.977167+-0.007603
+ 
+
+[epoch  12] [it  148500] train loss: 0.317709, train_acc: 0.944453 | time: 166.050840
+Radius 50.46034240722656
+lfw: 0.978667+-0.009031
+ 
+
+[epoch  12] [it  149000] train loss: 0.325673, train_acc: 0.943324 | time: 165.530155
+Radius 50.41435241699219
+lfw: 0.979500+-0.007455
+ 
+
+[epoch  12] [it  149500] train loss: 0.327496, train_acc: 0.942469 | time: 165.319930
+Radius 50.3841667175293
+lfw: 0.980000+-0.006912
+ 
+
+[epoch  12] [it  150000] train loss: 0.326905, train_acc: 0.943395 | time: 158.945672
+Radius 50.33940505981445
+lfw: 0.983667+-0.004933
+ 
+
+[epoch  13] [it  150500] train loss: 0.187989, train_acc: 0.969506 | time: 184.514873
+Radius 50.349822998046875
+lfw: 0.985000+-0.005676
+ 
+
+[epoch  13] [it  151000] train loss: 0.177119, train_acc: 0.971129 | time: 165.033119
+Radius 50.358314514160156
+lfw: 0.981667+-0.007110
+ 
+
+[epoch  13] [it  151500] train loss: 0.186484, train_acc: 0.969195 | time: 166.138674
+Radius 50.34748458862305
+lfw: 0.982333+-0.005878
+ 
+
+[epoch  13] [it  152000] train loss: 0.187127, train_acc: 0.969254 | time: 166.294974
+Radius 50.36971664428711
+lfw: 0.981000+-0.006799
+ 
+
+[epoch  13] [it  152500] train loss: 0.194808, train_acc: 0.968164 | time: 165.641807
+Radius 50.370052337646484
+lfw: 0.983167+-0.006850
+ 
+
+[epoch  13] [it  153000] train loss: 0.200717, train_acc: 0.966762 | time: 166.235476
+Radius 50.414268493652344
+lfw: 0.981000+-0.007498
+ 
+
+[epoch  13] [it  153500] train loss: 0.211843, train_acc: 0.964535 | time: 166.143655
+Radius 50.44002914428711
+lfw: 0.982000+-0.006864
+ 
+
+[epoch  13] [it  154000] train loss: 0.220898, train_acc: 0.962230 | time: 166.139547
+Radius 50.47380065917969
+lfw: 0.977500+-0.007120
+ 
+
+[epoch  13] [it  154500] train loss: 0.234106, train_acc: 0.959961 | time: 165.645075
+Radius 50.49481201171875
+lfw: 0.984167+-0.005928
+ 
+
+[epoch  13] [it  155000] train loss: 0.239898, train_acc: 0.959141 | time: 165.916078
+Radius 50.512977600097656
+lfw: 0.983500+-0.006727
+ 
+
+[epoch  13] [it  155500] train loss: 0.250802, train_acc: 0.957270 | time: 166.470363
+Radius 50.561073303222656
+lfw: 0.983000+-0.006000
+ 
+
+[epoch  13] [it  156000] train loss: 0.266416, train_acc: 0.954082 | time: 166.366670
+Radius 50.56340026855469
+lfw: 0.981833+-0.006474
+ 
+
+[epoch  13] [it  156500] train loss: 0.272737, train_acc: 0.953109 | time: 165.059627
+Radius 50.58012390136719
+lfw: 0.982833+-0.006585
+ 
+
+[epoch  13] [it  157000] train loss: 0.288153, train_acc: 0.949637 | time: 165.539521
+Radius 50.567657470703125
+lfw: 0.981667+-0.006912
+ 
+
+[epoch  13] [it  157500] train loss: 0.295128, train_acc: 0.948711 | time: 165.352205
+Radius 50.5391845703125
+lfw: 0.978500+-0.004682
+ 
+
+[epoch  13] [it  158000] train loss: 0.299445, train_acc: 0.947648 | time: 165.710100
+Radius 50.525203704833984
+lfw: 0.975500+-0.008167
+ 
+
+[epoch  13] [it  158500] train loss: 0.306174, train_acc: 0.946676 | time: 165.999029
+Radius 50.51831817626953
+lfw: 0.979167+-0.007791
+ 
+
+[epoch  13] [it  159000] train loss: 0.312697, train_acc: 0.945734 | time: 165.679115
+Radius 50.49515914916992
+lfw: 0.980000+-0.005323
+ 
+
+[epoch  13] [it  159500] train loss: 0.318807, train_acc: 0.944613 | time: 166.183450
+Radius 50.4545783996582
+lfw: 0.981333+-0.009939
+ 
+
+[epoch  13] [it  160000] train loss: 0.321217, train_acc: 0.943937 | time: 164.837997
+Radius 50.40507507324219
+lfw: 0.980500+-0.006914
+ 
+
+[epoch  13] [it  160500] train loss: 0.319822, train_acc: 0.944160 | time: 164.714675
+Radius 50.36930847167969
+lfw: 0.983667+-0.005207
+ 
+
+[epoch  13] [it  161000] train loss: 0.318919, train_acc: 0.945211 | time: 165.770753
+Radius 50.32788848876953
+lfw: 0.983667+-0.004989
+ 
+
+[epoch  13] [it  161500] train loss: 0.325613, train_acc: 0.943352 | time: 161.186716
+Radius 50.29338073730469
+lfw: 0.977833+-0.008098
+ 
+
+[epoch  14] [it  162000] train loss: 0.196791, train_acc: 0.967536 | time: 181.809852
+Radius 50.296630859375
+lfw: 0.982333+-0.007681
+ 
+
+[epoch  14] [it  162500] train loss: 0.178368, train_acc: 0.970922 | time: 164.803911
+Radius 50.27635955810547
+lfw: 0.979500+-0.007712
+ 
+
+[epoch  14] [it  163000] train loss: 0.177965, train_acc: 0.971477 | time: 165.349289
+Radius 50.29378128051758
+lfw: 0.980167+-0.006644
+ 
+
+[epoch  14] [it  163500] train loss: 0.184176, train_acc: 0.969742 | time: 165.631612
+Radius 50.28984832763672
+lfw: 0.981000+-0.006799
+ 
+
+[epoch  14] [it  164000] train loss: 0.192672, train_acc: 0.968531 | time: 164.823122
+Radius 50.28041076660156
+lfw: 0.978667+-0.006092
+ 
+
+[epoch  14] [it  164500] train loss: 0.198157, train_acc: 0.966859 | time: 164.819268
+Radius 50.31218338012695
+lfw: 0.980000+-0.007565
+ 
+
+[epoch  14] [it  165000] train loss: 0.207800, train_acc: 0.965539 | time: 165.387608
+Radius 50.35131072998047
+lfw: 0.980000+-0.006009
+ 
+
+[epoch  14] [it  165500] train loss: 0.221649, train_acc: 0.962613 | time: 165.413684
+Radius 50.384647369384766
+lfw: 0.979333+-0.006377
+ 
+
+[epoch  14] [it  166000] train loss: 0.230009, train_acc: 0.961043 | time: 165.360678
+Radius 50.43302536010742
+lfw: 0.982167+-0.006149
+ 
+
+[epoch  14] [it  166500] train loss: 0.234832, train_acc: 0.959723 | time: 165.068455
+Radius 50.489532470703125
+lfw: 0.980833+-0.005640
+ 
+
+[epoch  14] [it  167000] train loss: 0.247755, train_acc: 0.957793 | time: 165.068758
+Radius 50.50429153442383
+lfw: 0.983000+-0.004761
+ 
+
+[epoch  14] [it  167500] train loss: 0.259577, train_acc: 0.955367 | time: 166.268479
+Radius 50.5161018371582
+lfw: 0.982167+-0.006327
+ 
+
+[epoch  14] [it  168000] train loss: 0.276379, train_acc: 0.951988 | time: 165.899958
+Radius 50.503814697265625
+lfw: 0.980667+-0.006880
+ 
+
+[epoch  14] [it  168500] train loss: 0.278215, train_acc: 0.951977 | time: 165.778680
+Radius 50.51738739013672
+lfw: 0.981333+-0.007775
+ 
+
+[epoch  14] [it  169000] train loss: 0.287085, train_acc: 0.949453 | time: 164.939490
+Radius 50.53274154663086
+lfw: 0.957667+-0.007930
+ 
+
+[epoch  14] [it  169500] train loss: 0.297551, train_acc: 0.948633 | time: 165.769947
+Radius 50.50395965576172
+lfw: 0.982167+-0.007343
+ 
+
+[epoch  14] [it  170000] train loss: 0.302757, train_acc: 0.947020 | time: 165.776334
+Radius 50.4893913269043
+lfw: 0.982000+-0.004702
+ 
+
+[epoch  14] [it  170500] train loss: 0.305586, train_acc: 0.946852 | time: 164.809677
+Radius 50.47385025024414
+lfw: 0.980833+-0.007388
+ 
+
+[epoch  14] [it  171000] train loss: 0.309276, train_acc: 0.946355 | time: 165.509542
+Radius 50.45196533203125
+lfw: 0.978667+-0.006574
+ 
+
+[epoch  14] [it  171500] train loss: 0.310757, train_acc: 0.946711 | time: 164.713461
+Radius 50.41639709472656
+lfw: 0.981500+-0.006809
+ 
+
+[epoch  14] [it  172000] train loss: 0.314922, train_acc: 0.945426 | time: 164.365304
+Radius 50.373050689697266
+lfw: 0.983667+-0.004702
+ 
+
+[epoch  14] [it  172500] train loss: 0.317134, train_acc: 0.945047 | time: 165.191291
+Radius 50.33026885986328
+lfw: 0.983333+-0.005774
+ 
+
+[epoch  14] [it  173000] train loss: 0.318900, train_acc: 0.944496 | time: 161.201809
+Radius 50.300540924072266
+lfw: 0.981167+-0.007343
+ 
+
+[epoch  15] [it  173500] train loss: 0.206553, train_acc: 0.965571 | time: 179.811143
+Radius 50.29580307006836
+lfw: 0.979500+-0.005580
+ 
+
+[epoch  15] [it  174000] train loss: 0.174476, train_acc: 0.971641 | time: 165.214341
+Radius 50.287147521972656
+lfw: 0.984000+-0.003742
+ 
+
+[epoch  15] [it  174500] train loss: 0.176049, train_acc: 0.971598 | time: 165.711169
+Radius 50.29285430908203
+lfw: 0.980333+-0.005667
+ 
+
+[epoch  15] [it  175000] train loss: 0.181172, train_acc: 0.970656 | time: 164.374077
+Radius 50.27463912963867
+lfw: 0.983333+-0.005676
+ 
+
+[epoch  15] [it  175500] train loss: 0.184417, train_acc: 0.970094 | time: 165.218272
+Radius 50.28920364379883
+lfw: 0.985000+-0.005774
+ 
+
+[epoch  15] [it  176000] train loss: 0.194782, train_acc: 0.967898 | time: 165.637503
+Radius 50.2939453125
+lfw: 0.982833+-0.005003
+ 
+
+[epoch  15] [it  176500] train loss: 0.206336, train_acc: 0.966145 | time: 164.879564
+Radius 50.32706832885742
+lfw: 0.982000+-0.005044
+ 
+
+[epoch  15] [it  177000] train loss: 0.217827, train_acc: 0.963348 | time: 165.819319
+Radius 50.36243438720703
+lfw: 0.978833+-0.007455
+ 
+
+[epoch  15] [it  177500] train loss: 0.227808, train_acc: 0.961402 | time: 165.411045
+Radius 50.39656066894531
+lfw: 0.980667+-0.005637
+ 
+
+[epoch  15] [it  178000] train loss: 0.235341, train_acc: 0.960008 | time: 165.522265
+Radius 50.43648147583008
+lfw: 0.980000+-0.006191
+ 
+
+[epoch  15] [it  178500] train loss: 0.240139, train_acc: 0.958820 | time: 166.285111
+Radius 50.489906311035156
+lfw: 0.982167+-0.008335
+ 
+
+[epoch  15] [it  179000] train loss: 0.257857, train_acc: 0.955395 | time: 165.149787
+Radius 50.52114486694336
+lfw: 0.977667+-0.005878
+ 
+
+[epoch  15] [it  179500] train loss: 0.263025, train_acc: 0.954004 | time: 166.474380
+Radius 50.54688262939453
+lfw: 0.983667+-0.007446
+ 
+
+[epoch  15] [it  180000] train loss: 0.271769, train_acc: 0.952855 | time: 164.648121
+Radius 50.560462951660156
+lfw: 0.979333+-0.006245
+ 
+
+[epoch  15] [it  180500] train loss: 0.287511, train_acc: 0.949930 | time: 165.930732
+Radius 50.52464294433594
+lfw: 0.980333+-0.006227
+ 
+
+[epoch  15] [it  181000] train loss: 0.289037, train_acc: 0.949828 | time: 165.415104
+Radius 50.520973205566406
+lfw: 0.978333+-0.007416
+ 
+
+[epoch  15] [it  181500] train loss: 0.297798, train_acc: 0.948023 | time: 165.032697
+Radius 50.505409240722656
+lfw: 0.981500+-0.008214
+ 
+
+[epoch  15] [it  182000] train loss: 0.307697, train_acc: 0.946500 | time: 166.122581
+Radius 50.48235321044922
+lfw: 0.981000+-0.006377
+ 
+
+[epoch  15] [it  182500] train loss: 0.309901, train_acc: 0.945863 | time: 165.155320
+Radius 50.4658088684082
+lfw: 0.980833+-0.007500
+ 
+
+[epoch  15] [it  183000] train loss: 0.315652, train_acc: 0.944449 | time: 165.300026
+Radius 50.428077697753906
+lfw: 0.980000+-0.007601
+ 
+
+[epoch  15] [it  183500] train loss: 0.312429, train_acc: 0.945555 | time: 165.088308
+Radius 50.40169906616211
+lfw: 0.982333+-0.006064
+ 
+
+[epoch  15] [it  184000] train loss: 0.317990, train_acc: 0.944777 | time: 164.347580
+Radius 50.33974838256836
+lfw: 0.981833+-0.005937
+ 
+
+[epoch  15] [it  184500] train loss: 0.317682, train_acc: 0.944734 | time: 162.708852
+Radius 50.29154968261719
+lfw: 0.981333+-0.006904
+ 
+
+[epoch  16] [it  185000] train loss: 0.216533, train_acc: 0.964008 | time: 697.327745
+Radius 50.28015899658203
+lfw: 0.985167+-0.006930
+ 
+
+[epoch  16] [it  185500] train loss: 0.176080, train_acc: 0.971848 | time: 162.973003
+Radius 50.26397705078125
+lfw: 0.981000+-0.006018
+ 
+
+[epoch  16] [it  186000] train loss: 0.176001, train_acc: 0.971172 | time: 164.312714
+Radius 50.262001037597656
+lfw: 0.984167+-0.005439
+ 
+
+[epoch  16] [it  186500] train loss: 0.177431, train_acc: 0.971086 | time: 165.991776
+Radius 50.27786636352539
+lfw: 0.980333+-0.006360
+ 
+
+[epoch  16] [it  187000] train loss: 0.187639, train_acc: 0.969270 | time: 165.062603
+Radius 50.28508758544922
+lfw: 0.983333+-0.004714
+ 
+
+[epoch  16] [it  187500] train loss: 0.190770, train_acc: 0.968527 | time: 164.193737
+Radius 50.30372619628906
+lfw: 0.982500+-0.004549
+ 
+
+[epoch  16] [it  188000] train loss: 0.202176, train_acc: 0.966340 | time: 165.465908
+Radius 50.31222152709961
+lfw: 0.983167+-0.008112
+ 
+
+[epoch  16] [it  188500] train loss: 0.213514, train_acc: 0.963848 | time: 163.955810
+Radius 50.35021209716797
+lfw: 0.983000+-0.004819
+ 
+
+[epoch  16] [it  189000] train loss: 0.220734, train_acc: 0.962852 | time: 164.151898
+Radius 50.3905029296875
+lfw: 0.981833+-0.007205
+ 
+
+[epoch  16] [it  189500] train loss: 0.233414, train_acc: 0.960676 | time: 165.179195
+Radius 50.41017150878906
+lfw: 0.985000+-0.004472
+ 
+
+[epoch  16] [it  190000] train loss: 0.243188, train_acc: 0.958629 | time: 164.463867
+Radius 50.44729232788086
+lfw: 0.985167+-0.005294
+ 
+
+[epoch  16] [it  190500] train loss: 0.255257, train_acc: 0.956148 | time: 164.219269
+Radius 50.439979553222656
+lfw: 0.977167+-0.007784
+ 
+
+[epoch  16] [it  191000] train loss: 0.262822, train_acc: 0.954344 | time: 163.791069
+Radius 50.46607208251953
+lfw: 0.983167+-0.004180
+ 
+
+[epoch  16] [it  191500] train loss: 0.273677, train_acc: 0.952723 | time: 162.836053
+Radius 50.467559814453125
+lfw: 0.982000+-0.006403
+ 
+
+[epoch  16] [it  192000] train loss: 0.281010, train_acc: 0.951207 | time: 163.885099
+Radius 50.479164123535156
+lfw: 0.980833+-0.005928
+ 
+
+[epoch  16] [it  192500] train loss: 0.285502, train_acc: 0.950672 | time: 164.236531
+Radius 50.49397277832031
+lfw: 0.980833+-0.007574
+ 
+
+[epoch  16] [it  193000] train loss: 0.294941, train_acc: 0.948414 | time: 163.533429
+Radius 50.49260711669922
+lfw: 0.983167+-0.007544
+ 
+
+[epoch  16] [it  193500] train loss: 0.300253, train_acc: 0.947332 | time: 163.836558
+Radius 50.463226318359375
+lfw: 0.982000+-0.006984
+ 
+
+[epoch  16] [it  194000] train loss: 0.308549, train_acc: 0.946137 | time: 164.702844
+Radius 50.42253875732422
+lfw: 0.979333+-0.006633
+ 
+
+[epoch  16] [it  194500] train loss: 0.309568, train_acc: 0.946191 | time: 163.676777
+Radius 50.4086799621582
+lfw: 0.981833+-0.006768
+ 
+
+[epoch  16] [it  195000] train loss: 0.311287, train_acc: 0.945613 | time: 163.556699
+Radius 50.35746383666992
+lfw: 0.980500+-0.007748
+ 
+
+[epoch  16] [it  195500] train loss: 0.312939, train_acc: 0.945770 | time: 163.317150
+Radius 50.311927795410156
+lfw: 0.983167+-0.006930
+ 
+
+[epoch  16] [it  196000] train loss: 0.317488, train_acc: 0.944934 | time: 162.145659
+Radius 50.27095031738281
+lfw: 0.980667+-0.006110
+ 
+
+[epoch  17] [it  196500] train loss: 0.221824, train_acc: 0.962707 | time: 178.201715
+Radius 50.27986526489258
+lfw: 0.981000+-0.006064
