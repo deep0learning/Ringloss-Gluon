@@ -69,7 +69,7 @@ thx for deep insight's great work
 - network of mobile_facenet, it has only 1081250 params and 4.4MB size on disk
 - data provider, Gluon or Nvidia-DALI, DALI allow fewer cpu cores for preprocess
 
-It is import to use a larger R for init, like 20.0, use 1.0 usually cause loss NAN at beginning.
+It is important to use a larger R for init, like 20.0, use 1.0 usually cause loss NAN at beginning.
 
 The first thousands of training step log:
 ```
